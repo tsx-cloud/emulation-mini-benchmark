@@ -12,7 +12,7 @@
 constexpr size_t K = 10;
 constexpr size_t VECTOR_SIZE = 1'000'00 * K;
 constexpr auto BENCHMARK_DURATION = std::chrono::seconds(10);
-constexpr double BASELINE_ITERATIONS = 100.0;
+constexpr double BASELINE_ITERATIONS = 250.0;
 constexpr size_t X = 42;
 constexpr size_t X_SIZE = 10;
 
